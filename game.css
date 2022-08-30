@@ -109,3 +109,7 @@ main {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.label-highscore {
+  display: none;
+}
